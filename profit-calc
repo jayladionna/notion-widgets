@@ -1,8 +1,5 @@
 <div id="profit-calculator-653766">
-  <!-- Include the remote-widgets.js script -->
   <script type="text/javascript" src="https://www.cashbackforex.com/Content/remote/remote-widgets.js"></script>
-
-  <!-- Initialize and configure the profit calculator widget -->
   <script type="text/javascript">
     RemoteCalc({
       "Url": "https://www.cashbackforex.com",
